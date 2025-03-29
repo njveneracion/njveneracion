@@ -1,9 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nelson Jay</h1>
 
-🔭 I’m currently working on APIs [https://kaizen-anime.vercel.app](https://kaizen-anime.vercel.app) <br>
-👯 I’m looking to collaborate on open source projects (if any) <br>
-🌱 I’m currently learning React.js <br>
-💬 Ask me about Web Development Topics 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
