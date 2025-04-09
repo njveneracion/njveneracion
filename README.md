@@ -1,15 +1,24 @@
+
 <div align="center">
+    <p align="center">
+  <img src="https://profile-counter.glitch.me/njveneracion/count.svg" alt="Visitor Count">
+    </p>
   <pre >
     __  _   _      _ _        __        __         _     _   _      ____  
    / / | | | | ___| | | ___   \ \      / /__  _ __| | __| | | |    / /\ \ 
   / /  | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | | |   / /  \ \
   \ \  |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| | |_|  / /   / /
-   \_\ |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_| (_) /_/   /_/ 
+   \_\ |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_| (_) /_/   /_/
   </pre>
 </div>
+
+
 <div style="border-radius: 20%;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJrYzNuYXAzbTR6Z29qMjBzN2l3b21teWtoMG4xdmNvdmM5aTY0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hf94BspUpu0JW/giphy.gif" alt="anime gif" width="100%" height="150vh"/>
 </div>
+
+
+
 
 
 
@@ -28,33 +37,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,express,mongodb,nodejs,postgres,postman,php,mysql,vercel,ts,nextjs&perline=16)](https://skillicons.dev)
 
-## Connect with Me
-
-<div align="left">
-  <a href="https://www.youtube.com/your-channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  
-  <a href="https://www.instagram.com/your-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-
-  <a href="https://www.twitch.tv/your-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  </a>
-
-  <a href="https://discord.gg/your-server-invite" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+## Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/njveneracionn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/njsven) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonjayveneracion) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aamryme) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:njsvenn@gmail.com) 
 
 
 ## 
