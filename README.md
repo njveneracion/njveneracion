@@ -1,37 +1,12 @@
-<h2 align="left">Hi, I'm Nelson Jay</h2>
+## About Me
 
-###
+I am an aspiring software engineer with a keen interest in developing innovative software solutions. Currently based in **Manila, Philippines**, I enjoy tackling complex problems and learning new programming languages and frameworks. I believe in continuous learning and strive to enhance my skills every day.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Skills & Technologies
 
-###
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,express,mongodb,nodejs,postgres,postman,php,mysql,vercel,ts,nextjs&perline=8)](https://skillicons.dev)
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/e49479bd-bf1d-4ee1-86a8-2e739b4ef336"  />
-
-
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
+## Connect with Me
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -42,8 +17,13 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+## 
 
-<br clear="both">
-
-###
+```
+         _                                     _             
+  _ __  (_)_   _____ _ __   ___ _ __ __ _  ___(_) ___  _ __  
+ | '_ \ | \ \ / / _ \ '_ \ / _ \ '__/ _` |/ __| |/ _ \| '_ \ 
+ | | | || |\ V /  __/ | | |  __/ | | (_| | (__| | (_) | | | |
+ |_| |_|/ | \_/ \___|_| |_|\___|_|  \__,_|\___|_|\___/|_| |_|
+      |__/                                                   
+```
