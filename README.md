@@ -7,8 +7,8 @@
    \_\ |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_| (_) /_/   /_/ 
   </pre>
 </div>
-<div>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3YWVmdmJpejg4OWF4a2U4aGt3ZjFpNnJmZXpxbzMxcGNic3J0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXd5YtB6mjLHkXQOhd/giphy.gif" alt="anime gif" width="100%" height="160vh" style="object-fit: contain;"/>
+<div style="border-radius: 20%;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJrYzNuYXAzbTR6Z29qMjBzN2l3b21teWtoMG4xdmNvdmM5aTY0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hf94BspUpu0JW/giphy.gif" alt="anime gif" width="100%" height="150vh"/>
 </div>
 
 
