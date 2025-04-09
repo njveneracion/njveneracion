@@ -26,7 +26,7 @@
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,express,mongodb,nodejs,postgres,postman,php,mysql,vercel,ts,nextjs&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,express,mongodb,nodejs,postgres,postman,php,mysql,vercel,ts,nextjs&perline=16)](https://skillicons.dev)
 
 ## Connect with Me
 
