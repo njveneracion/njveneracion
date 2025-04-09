@@ -1,3 +1,12 @@
+```
+   __         _                                     _                 ____  
+ / /  _ __  (_)_   _____ _ __   ___ _ __ __ _  ___(_) ___  _ __      / /\ \ 
+/ /  | '_ \ | \ \ / / _ \ '_ \ / _ \ '__/ _` |/ __| |/ _ \| '_ \    / /  \ \
+\ \  | | | || |\ V /  __/ | | |  __/ | | (_| | (__| | (_) | | | |  / /   / /
+ \_\ |_| |_|/ | \_/ \___|_| |_|\___|_|  \__,_|\___|_|\___/|_| |_| /_/   /_/ 
+          |__/                                                              
+```
+
 ## About Me
 
 I am an aspiring software engineer with a keen interest in developing innovative software solutions. Currently based in **Manila, Philippines**, I enjoy tackling complex problems and learning new programming languages and frameworks. I believe in continuous learning and strive to enhance my skills every day.
@@ -19,11 +28,4 @@ I am an aspiring software engineer with a keen interest in developing innovative
 
 ## 
 
-```
-         _                                     _             
-  _ __  (_)_   _____ _ __   ___ _ __ __ _  ___(_) ___  _ __  
- | '_ \ | \ \ / / _ \ '_ \ / _ \ '__/ _` |/ __| |/ _ \| '_ \ 
- | | | || |\ V /  __/ | | |  __/ | | (_| | (__| | (_) | | | |
- |_| |_|/ | \_/ \___|_| |_|\___|_|  \__,_|\___|_|\___/|_| |_|
-      |__/                                                   
-```
+
