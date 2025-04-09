@@ -1,15 +1,28 @@
-```
- _   _     _  __     __                             _             
-| \ | |   | | \ \   / /__ _ __   ___ _ __ __ _  ___(_) ___  _ __  
-|  \| |_  | |  \ \ / / _ \ '_ \ / _ \ '__/ _` |/ __| |/ _ \| '_ \ 
-| |\  | |_| |   \ V /  __/ | | |  __/ | | (_| | (__| | (_) | | | |
-|_| \_|\___/     \_/ \___|_| |_|\___|_|  \__,_|\___|_|\___/|_| |_|
-                                                                                                          
-```
+<div align="center">
+  <pre >
+    __  _   _      _ _        __        __         _     _   _      ____  
+   / / | | | | ___| | | ___   \ \      / /__  _ __| | __| | | |    / /\ \ 
+  / /  | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | | |   / /  \ \
+  \ \  |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| | |_|  / /   / /
+   \_\ |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_| (_) /_/   /_/ 
+  </pre>
+</div>
+<div>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3YWVmdmJpejg4OWF4a2U4aGt3ZjFpNnJmZXpxbzMxcGNic3J0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXd5YtB6mjLHkXQOhd/giphy.gif" alt="anime gif" width="100%" height="160vh" style="object-fit: contain;"/>
+</div>
+
+
+
+
+
+
 
 ## About Me
+ <p>
+    Hi! I'm an aspiring software engineer from Manila, Philippines. I love building things with code and turning ideas into something real and meaningful. I'm passionate about learning, creating, and growing every day. For me, programming is more than just solving problems—it's about making an impact, no matter how small. Though I'm still at the start of my journey, I'm excited to keep learning, keep building, and keep moving forward—one line of code at a time.
+  </p>
 
-I am an aspiring software engineer with a keen interest in developing innovative software solutions. Currently based in **Manila, Philippines**, I enjoy tackling complex problems and learning new programming languages and frameworks. I believe in continuous learning and strive to enhance my skills every day.
+
 
 ## Skills & Technologies
 
@@ -18,13 +31,31 @@ I am an aspiring software engineer with a keen interest in developing innovative
 ## Connect with Me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/your-channel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  
+  <a href="https://www.instagram.com/your-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+
+  <a href="https://www.twitch.tv/your-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
+  </a>
+
+  <a href="https://discord.gg/your-server-invite" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
+
 
 ## 
 
