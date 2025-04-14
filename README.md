@@ -28,7 +28,7 @@
 
 ## About Me
  <p>
-    Hi! I'm NJ, an aspiring software engineer from Manila, Philippines. I love building things with code and turning ideas into something real and meaningful. I'm passionate about learning, creating, and growing every day. For me, programming is more than just solving problems—it's about making an impact, no matter how small. Though I'm still at the start of my journey, I'm excited to keep learning, keep building, and keep moving forward—one line of code at a time.
+    Hi! I'm Nelson Jay, an aspiring software engineer from Manila, Philippines. I love building things with code and turning ideas into something real and meaningful. I'm passionate about learning, creating, and growing every day. For me, programming is more than just solving problems—it's about making an impact, no matter how small. Though I'm still at the start of my journey, I'm excited to keep learning, keep building, and keep moving forward—one line of code at a time.
   </p>
 
 
