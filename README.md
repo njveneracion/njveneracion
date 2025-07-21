@@ -1,8 +1,6 @@
 
 <div align="center">
-    <p align="center">
-  <img src="https://profile-counter.glitch.me/njveneracion/count.svg" alt="Visitor Count">
-    </p>
+    
   <pre >
   __  _   _      _ _        __        __         _     _   _      __ __  
  / / | | | | ___| | | ___   \ \      / /__  _ __| | __| | | |    / / \ \ 
