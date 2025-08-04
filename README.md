@@ -33,7 +33,7 @@
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,express,mongodb,nodejs,postgres,postman,php,mysql,vercel,ts,nextjs&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,express,mongodb,nodejs,postgres,postman,php,mysql,vercel,ts,&perline=16)](https://skillicons.dev)
 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/njveneracionn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/njsven) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonjayveneracion) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aamryme) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:njsvenn@gmail.com) 
