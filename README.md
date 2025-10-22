@@ -8,8 +8,7 @@
 
 ## About Me
  <p>
-    I'm a dev, most of the time I don't know what I'm doing. I predict some line of code, copy-paste from AI, break things...but in the end it works. I don't know, lets just code and build shits :))
-    Happy coding?
+    done beats perfection.
   </p>
 
 
