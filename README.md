@@ -15,7 +15,7 @@
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,postgres,ts,&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,nextjs&perline=16)](https://skillicons.dev)
 
 
 
